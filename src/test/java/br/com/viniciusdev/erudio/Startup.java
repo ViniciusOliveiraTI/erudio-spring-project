@@ -1,10 +1,10 @@
-package br.com.viniciusdev.erudio_spring_project;
+package br.com.viniciusdev.erudio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ErudioSpringProjectApplicationTests {
+class Startup {
 
 	@Test
 	void contextLoads() {
